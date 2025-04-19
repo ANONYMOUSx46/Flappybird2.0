@@ -11,9 +11,9 @@ pygame.init()
 def load_sound(name):
     return pygame.mixer.Sound(name) if os.path.exists(name) else None
 
-flap_sound = load_sound('flap.wav')
-hit_sound = load_sound('hit.wav')
-score_sound = load_sound('score.wav')
+flap_sound = load_sound('assets/flap.wav')
+hit_sound = load_sound('assets/hit.wav')
+score_sound = load_sound('assets/score.wav')
 
 # Optional background image
 if os.path.exists('background.png'):
