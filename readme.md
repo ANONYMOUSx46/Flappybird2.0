@@ -15,8 +15,8 @@ A custom-built version of the classic **Flappy Bird** arcade game, developed usi
 - 🔊 Sound effects for flapping, scoring, and hitting obstacles
 - 📈 Dynamic score display with pulsing animation
 - 💥 Game Over & Start screens with custom designs
-- 🐣 **Easter Egg mode** triggered by a double right-click (👀 try it!)
-- 👑 Easter Egg screen with golden egg, crown, and victory message
+- 🐣 **Easter Egg mode** triggered by...find out👀 
+
 
 ---
 
@@ -26,10 +26,11 @@ Make sure you have Python and Pygame installed:
 
 ```bash
 pip install pygame
+```
 
 
 ## 🕹️ How to Play
-Action	Control
-Flap (jump)	Left click or Space
-Start Game	Left click or Space
-Restart	Left click or Space after Game Over
+- Action	Control
+- Flap (jump)	Left click or Space
+- Start Game	Left click or Space
+- Restart	Left click or Space after Game Over
